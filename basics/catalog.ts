@@ -5,7 +5,7 @@ type Resource = {
 };
 
 const resources: Resource[] = [
-    title: "Основи Git та GitHub",
+    { id: 1, title: "Основи Git та GitHub", minutes: 10 },
     { id: 2, title: "Змінні в JS", minutes: 20 },
     { id: 3, title: "Типи TypeScript", minutes: 30 }
 ];
