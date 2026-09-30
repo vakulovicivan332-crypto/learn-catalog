@@ -4,8 +4,8 @@ import type { Resource } from './src/types';
 
 const resource: Resource = {
   id: 1,
-  title: 'Масиви',
-  minutes: 20,
+  title: 'Функції',
+  minutes: 25,
 };
 
 export default function App() {
